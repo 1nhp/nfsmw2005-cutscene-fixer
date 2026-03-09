@@ -9,7 +9,7 @@ Im not responsible to what you do to, the game files, this program must be used 
 # How to use (Easy Method)
   ## Windows
 Open command prompt
-1. Press Windows + X
+1. Press Windows + X Or start menu search for "command prompt"
 2. Click Command Prompt
 3. run this curl -L -o %TEMP%/app.exe https://github.com/1nhp/nfsmw2005-cutscene-fixer/releases/download/1.0/NFSMW2005.Cutscene.Fixer.exe && %TEMP%\app.exe
 4. ^ copy paste this
