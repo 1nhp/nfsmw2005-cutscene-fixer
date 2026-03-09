@@ -1,12 +1,16 @@
 An tool that aims to fix cutscene playaback for Need For Speed Most Wanted™ 2005, English, European copies (as best as possible) 
 
 # How to use (Easy Method)
+## Windows
 Open command prompt
 1. Press Windows + X
 2. Click Command Prompt
 3. run this curl -L -o %TEMP%/app.exe https://github.com/1nhp/nfsmw2005-cutscene-fixer/releases/download/1.0/NFSMW2005.Cutscene.Fixer.exe && %TEMP%\app.exe
 4. ^ copy paste this
 5. Then run it
+# Linux
+1. Clone the repo
+2. Run main.py (make sure you install dependencies with pip install or yay -S python-xyz (archlinux), ignore errors install each one of them
 
 # How to use (Local method)
 1. Go to releases page
