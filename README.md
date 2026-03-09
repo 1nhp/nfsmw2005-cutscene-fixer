@@ -2,10 +2,12 @@ An tool that aims to fix cutscene playaback for Need For Speed Most Wanted™ 20
 
 ## Disclaimer
 Im not responsible to what you do to, the game files, this program must be used carefully before continuing!
-
+<br>
+<br>
+<br>
 
 # How to use (Easy Method)
-## Windows
+  ## Windows
 Open command prompt
 1. Press Windows + X
 2. Click Command Prompt
