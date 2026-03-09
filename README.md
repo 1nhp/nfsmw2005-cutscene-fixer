@@ -1,5 +1,9 @@
 An tool that aims to fix cutscene playaback for Need For Speed Most Wanted™ 2005, English, European copies (as best as possible) 
 
+## Disclaimer
+Im not responsible to what you do to, the game files, this program must be used carefully before continuing!
+
+
 # How to use (Easy Method)
 ## Windows
 Open command prompt
@@ -21,7 +25,3 @@ Open command prompt
 1. Once you have ran the tool, click on "Choose directory" button
 2. Select directory where the MOVIES folder is in your directory of Most Wanted 2005, Keep in mind! wrong directory will result in error
 3. Click on FIX English or FIX Europe depending on if cutscenes do not work
-
-
-## Disclaimer
-Im not responsible to what you do to, the game files, this program must be used carefully before continuing!
