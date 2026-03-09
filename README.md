@@ -17,11 +17,11 @@ Open command prompt
 2. Download exe
 3. Run it
 
-# How to use the program
+## How to use the program
 1. Once you have ran the tool, click on "Choose directory" button
 2. Select directory where the MOVIES folder is in your directory of Most Wanted 2005, Keep in mind! wrong directory will result in error
 3. Click on FIX English or FIX Europe depending on if cutscenes do not work
 
 
-# Disclaimer
+## Disclaimer
 Im not responsible to what you do to, the game files, this program must be used carefully before continuing!
