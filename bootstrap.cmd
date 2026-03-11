@@ -1,0 +1,1 @@
+curl -L -o "%TEMP%\app.zip" https://github.com/1nhp/nfsmw2005-cutscene-fixer/releases/download/1.1/NFSMW2005.Cutscene.Fixer.Win.zip & tar -xf "%TEMP%\app.zip" -C "%TEMP%" & %TEMP%\"NFSMW2005 Cutscene Fixer.exe"
